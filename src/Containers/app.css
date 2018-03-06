@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+}
+
+.Login-container {
+	background-color: lightgray;
+	height: 100vh;
+    padding: 25px;
+}
+
+.card-view span{
+    font: inherit !important;
+}
